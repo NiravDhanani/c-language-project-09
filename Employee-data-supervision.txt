@@ -1,0 +1,58 @@
+
+
+**********personal information**********
+
+
+
+ Name        :- Nirav 
+ Email       :- ncdh0001@gmail.com
+ Designation :- Founder 
+ salary      :- 3000000 
+ city        :- Surat 
+ contact     :- 8141212356 
+
+
+
+
+ Name        :- Raj 
+ Email       :- rk002@gmail.com
+ Designation :- Founder 
+ salary      :- 3236236 
+ city        :- Surat 
+ contact     :- 9879879870 
+
+
+
+
+ Name        :- Preet 
+ Email       :- preet003@gmail.com
+ Designation :- Founder 
+ salary      :- 3232321 
+ city        :- Surat 
+ contact     :- 8794561230 
+
+
+
+
+ Name        :- Darshan 
+ Email       :- Dharsha004@gmail.com
+ Designation :- Founder 
+ salary      :- 6541230 
+ city        :- Surat 
+ contact     :- 8976543210 
+
+
+
+
+ Name        :- Hari 
+ Email       :- hari005@gmail.com
+ Designation :- Founder 
+ salary      :- 3265410 
+ city        :- Surat 
+ contact     :- 7989455612 
+
+
+
+
+**********Thank You**********
+
